@@ -1,0 +1,27 @@
+
+.background-image{
+    /* align-content: center; */
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+
+}
+.backcolor-blue{
+    /* background-color: aqua; */
+    margin-left: 25vw;
+    margin-right: 25vw;
+    border-radius: 25px;
+}
+.kiran-image{
+    margin-top: 25px;
+}
+/* 
+.person-image{
+    background-image: url( "https://assets.ccbp.in/frontend/react-js/congrats-card-profile-img.png");
+    border-radius:100rem; */
+/* }
+.watch-image{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-watch-img.png");
+
+} */

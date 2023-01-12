@@ -1,0 +1,39 @@
+    .data-border{
+        
+        border: none;
+        border-top-width: 6px;
+        border-radius: 9px;
+        border-top-style: solid;
+        border-top-color: red;
+        
+        
+        
+    }
+    .dot-border{
+        
+        border: none;
+        border-top-width: 6px;
+        border-radius: 9px;
+        border-top-style: solid;
+        border-top-color: yellow;
+        
+    
+    }
+    .vr-border{
+        
+        border: none;
+        border-top-width: 6px;
+        border-radius: 9px;
+        border-top-style: solid;
+        border-top-color: blue;
+        
+    }
+    .ml-border{
+        
+        border: none;
+        border-top-width: 6px;
+        border-radius: 9px;
+        border-top-style: solid;
+        border-top-color: greenyellow;
+        
+    }

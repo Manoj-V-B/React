@@ -1,0 +1,19 @@
+.bgcolor{
+    
+    background:linear-gradient(to bottom left,rgb(79, 45, 215)  ,rgb(252, 113, 222));
+    width: 100%;
+    height: 100%; 
+}
+
+.fontSize{
+    width: 100%;
+    height: 90vh;
+}
+input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+button{
+    border: none;
+}
